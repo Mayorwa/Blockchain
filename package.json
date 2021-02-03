@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "A simple blockchain app in javascript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayorwa/Blockchain.git"
+  },
+  "author": "Mayorwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayorwa/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Mayorwa/Blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
