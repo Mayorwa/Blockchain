@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mayorwa/Blockchain#readme",
   "dependencies": {
-    "crypto-js": "^4.0.0"
+    "crypto-js": "^4.2.0"
   }
 }
